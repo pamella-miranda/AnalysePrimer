@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# ---------------------------------------------------------------------
+#---------------------------------------------------------------------
 #   Last modified: 28 january 2025
 #
 #   Calculation of melting tempeurature of primer/genome alignments
@@ -10,7 +10,7 @@
 #
 #   perl calculate_primer_tm.pl id-genomes.dat primer
 #
-# ---------------------------------------------------------------------
+#---------------------------------------------------------------------
 
 use strict;
 use warnings;
