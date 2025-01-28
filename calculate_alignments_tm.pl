@@ -8,7 +8,7 @@
 #   id-genomes.dat --> file with genome ids
 #   primer --> code for the primer set without the extension ".fasta"
 #
-#   perl calculate_primer_tm.pl id-genomes.dat primer
+#   perl calculate_alignments_tm.pl id-genomes.dat primer
 #
 #---------------------------------------------------------------------
 
