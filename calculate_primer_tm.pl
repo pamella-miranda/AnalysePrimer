@@ -21,7 +21,7 @@ my $canpar = "/usr/share/TfReg/data/dna_pb_60.par"; #dna parameters
 my $pr_file = $ARGV[0];
 
 #opening  of primer ser file
-open(PR,"$pr_file.fasta") or die("could not open $pr_file.fasta");
+open(PR,"$pr_file.fasta") or die("Could not open $pr_file.fasta");
 
 #creating the result file with the melting temperature
 my $canfile = "$pr_file-tm.dat";
