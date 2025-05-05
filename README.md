@@ -91,7 +91,7 @@ Gerald Weber --- gweberbh@gmail.com
 This project is licensed under the MIT License.
 See the LICENSE.md file for details.
 
-## Papers
+## Cite
 
 * P. Miranda, G. Weber, Thermodynamic evaluation of the impact of DNA mismatches in PCR-type SARS-CoV-2 primers and probes, Mol. Cell. ProbesIn press. doi:10.1016/j.mcp.2021.101707.
 * P. Miranda, V. B. Barbosa and G. Weber. Mesoscopic evaluation of DNA mismatches in PCR primer-target hybridisation to detect SARS-CoV-2 variants of concern. In Brazilian Symposium on Bioinformatics, pages 145–150. Springer, 2021. doi:10.1007/978-3-030-91814-9 15.
