@@ -1,11 +1,14 @@
-@article{MIRANDA2021101707,
-title = {Thermodynamic evaluation of the impact of {DNA} mismatches in {PCR-type SARS-CoV-2} primers and probes},
-journal = {Molecular and Cellular Probes},
-volume = {56},
-pages = {101707},
-year = {2021},
-issn = {0890-8508},
-doi = {https://doi.org/10.1016/j.mcp.2021.101707},
-url = {https://www.sciencedirect.com/science/article/pii/S0890850821000141},
-author = {Pâmella Miranda and Gerald Weber}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Miranda"
+  given-names: "Pâmella"
+  orcid: "https://orcid.org/0000-0001-8876-1864"
+- family-names: "Weber"
+  given-names: "Gerald"
+  orcid: "https://orcid.org/0000-0002-2935-1571"
+title: "AnalysePrimer"
+version: 1.0.0
+doi: 10.5281/zenodo.15345157
+date-released: 2021-04
+url: "https://github.com/pamella-miranda/AnalysePrimer"
