@@ -98,6 +98,7 @@ See the LICENSE.md file for details.
 * P. Miranda, G. Weber, Thermodynamic evaluation of the impact of DNA mismatches in PCR-type SARS-CoV-2 primers and probes, Mol. Cell. ProbesIn press. doi:10.1016/j.mcp.2021.101707.
 * P. Miranda, V. B. Barbosa and G. Weber. Mesoscopic evaluation of DNA mismatches in PCR primer-target hybridisation to detect SARS-CoV-2 variants of concern. In Brazilian Symposium on Bioinformatics, pages 145–150. Springer, 2021. doi:10.1007/978-3-030-91814-9 15.
 * P. Miranda, P. A. Alves, R. L. do Monte-Neto and G. Weber. In silico thermodynamic evaluation of the effectiveness of RT-LAMP primers SARS-CoV-2 variants detection. The Open COVID Journal, 4(1), 2024. doi:10.2174/0126669587279780240130063422.
+* Miranda, P., & Weber, G. (2021). AnalysePrimer. Zenodo. https://doi.org/10.5281/zenodo.15345157.
 
 ## Archived
 
